@@ -2,7 +2,7 @@
 
 AI builder & data — construo sistemas de IA com foco em RAG, multi-agentes e o rigor de medição que quase ninguém aplica.
 
-🔭 **Atualmente:** [linkeasy](https://github.com/romualdobarbosa) (automação multi-agente pra LinkedIn) e [Dennou](https://github.com/romualdobarbosa) (RAG sobre meu Zettelkasten)
+🔭 **Atualmente:** [linkeasy]([https://github.com/romualdobarbosa](https://github.com/romualdobarbosa/linkeasy)) (automação multi-agente pra LinkedIn) e [Dennou]([https://github.com/romualdobarbosa](https://github.com/romualdobarbosa/dennou)) (RAG sobre meu Zettelkasten)
 🛠️ **Stack:** Python · SQL · LLMs · Linux
 📊 **Diferencial:** background em dados — aplico evals, observability e métricas de retrieval em sistemas de IA, onde a maioria só cola código
 
